@@ -1,6 +1,6 @@
 <!-- ===== BANNER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Kavindu%20Marasinghe&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Passionate%20Software%20Developer%20from%20Sri%20Lanka&descSize=20&descAlignY=60&animation=fadeIn" alt="banner"/>
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Kavindu%20Marasinghe&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Passionate%20Software%20Developer%20from%20Sri%20Lanka&descSize=20&descAlignY=60&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Kavindu%20Marasinghe&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Passionate%20Software%20Developer%20from%20Sri%20Lanka&descSize=20&descAlignY=60&animation=fadeIn)" alt="banner"/>
 </div>
 
 <!-- ===== TYPING TAGLINE ===== -->
