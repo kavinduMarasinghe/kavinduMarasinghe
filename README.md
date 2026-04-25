@@ -1,6 +1,6 @@
 <!-- ===== BANNER ===== -->
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Kavindu%20Marasinghe&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Passionate%20Software%20Developer%20from%20Sri%20Lanka&descSize=20&descAlignY=60&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Kavindu%20Marasinghe&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Passionate%20Software%20Developer%20from%20Sri%20Lanka&descSize=20&descAlignY=60&animation=fadeIn)" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Kavindu%20Marasinghe&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Passionate%20Software%20Developer%20from%20Sri%20Lanka&descSize=20&descAlignY=60&animation=fadeIn" alt="banner"/>
 </div>
 
 <!-- ===== TYPING TAGLINE ===== -->
@@ -50,8 +50,8 @@ I am **Kavindu Marasinghe**, an undergraduate at **SLIIT** building the bridge b
 <!-- ===== CONNECT BUTTONS ===== -->
 <div align="left">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavinduwethmin@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavindu-marasinghe-333baa376/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/kavinduMarasinghe)
 
 </div>
