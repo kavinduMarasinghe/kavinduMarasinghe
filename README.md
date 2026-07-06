@@ -64,16 +64,16 @@ I am **Kavindu Marasinghe**, an undergraduate at **SLIIT** building the bridge b
 <div align="center">
 
 <a href="https://github.com/kavinduMarasinghe/IT2010-MAD--ASSIGMENT02--Mobile-Application--Mocha-Hub-Online-Coffee-Shop-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavinduMarasinghe&repo=IT2010-MAD--ASSIGMENT02--Mobile-Application--Mocha-Hub-Online-Coffee-Shop-App&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavinduMarasinghe&repo=IT2010-MAD--ASSIGMENT02--Mobile-Application--Mocha-Hub-Online-Coffee-Shop-App&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </a>
 <a href="https://github.com/kavinduMarasinghe/brewease-my-coffee-hub-main">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavinduMarasinghe&repo=brewease-my-coffee-hub-main&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavinduMarasinghe&repo=brewease-my-coffee-hub-main&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </a>
 <a href="https://github.com/kavinduMarasinghe/MADTutorial04">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavinduMarasinghe&repo=MADTutorial04&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavinduMarasinghe&repo=MADTutorial04&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </a>
 <a href="https://github.com/kavinduMarasinghe/IT3040-ITPM-Assigment-1--IT23606760">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavinduMarasinghe&repo=IT3040-ITPM-Assigment-1--IT23606760&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavinduMarasinghe&repo=IT3040-ITPM-Assigment-1--IT23606760&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </a>
 
 </div>
@@ -84,8 +84,8 @@ I am **Kavindu Marasinghe**, an undergraduate at **SLIIT** building the bridge b
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kavinduMarasinghe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinduMarasinghe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kavinduMarasinghe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinduMarasinghe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
 </div>
 
 <div align="center">
@@ -93,7 +93,7 @@ I am **Kavindu Marasinghe**, an undergraduate at **SLIIT** building the bridge b
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kavinduMarasinghe&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kavinduMarasinghe&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&cache-seconds=86400" alt="trophies"/>
 </div>
 
 ---
