@@ -89,7 +89,7 @@ I am **Kavindu Marasinghe**, an undergraduate at **SLIIT** building the bridge b
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kavinduMarasinghe&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kavinduMarasinghe&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </div>
 
 <div align="center">
