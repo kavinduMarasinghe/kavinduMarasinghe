@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0F2A4A"/>
+      <stop offset="45%" stop-color="#1B6FA8"/>
+      <stop offset="100%" stop-color="#6A2FD6"/>
+    </linearGradient>
+    <linearGradient id="w" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00C2FF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#A06BFF" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background with wavy bottom edge -->
+  <path fill="url(#g)" d="M0 0H1200V190C1080 230 960 160 840 180C700 205 600 245 460 220C320 195 220 165 120 190C70 202 30 215 0 210Z"/>
+
+  <!-- moving accent wave -->
+  <path fill="url(#w)" d="M0 170C200 130 400 210 600 175C800 140 1000 205 1200 165V200C1000 240 800 175 600 210C400 245 200 165 0 205Z">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0 170C200 130 400 210 600 175C800 140 1000 205 1200 165V200C1000 240 800 175 600 210C400 245 200 165 0 205Z;
+              M0 160C200 205 400 140 600 180C800 215 1000 140 1200 180V215C1000 175 800 250 600 215C400 180 200 240 0 195Z;
+              M0 170C200 130 400 210 600 175C800 140 1000 205 1200 165V200C1000 240 800 175 600 210C400 245 200 165 0 205Z"/>
+  </path>
+
+  <g font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" text-anchor="middle" fill="#FFFFFF">
+    <text x="600" y="100" font-size="64" font-weight="700">
+      Kavindu Marasinghe
+      <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+    </text>
+    <text x="600" y="148" font-size="22" font-weight="400" fill="#DCEBFF">
+      IT Undergraduate @ SLIIT  ·  Full-Stack Developer  ·  QA &amp; Software Testing
+      <animate attributeName="opacity" from="0" to="1" dur="2s" fill="freeze"/>
+    </text>
+  </g>
+</svg>
