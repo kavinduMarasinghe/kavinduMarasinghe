@@ -1,12 +1,12 @@
 <!-- ===== BANNER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Kavindu%20Marasinghe&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=IT%20Undergraduate%20%40%20SLIIT%20%7C%20Full-Stack%20%26%20QA&descSize=20&descAlignY=60&animation=fadeIn" alt="banner"/>
+  <img src="./assets/banner.svg" width="100%" alt="Kavindu Marasinghe — IT Undergraduate @ SLIIT"/>
 </div>
 
 <!-- ===== TYPING TAGLINE ===== -->
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN+%26+Spring+Boot;QA+%26+Software+Testing+Enthusiast;Kotlin+Android+Developer;Open+to+Internship+Opportunities)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN+%26+Spring+Boot;QA+%26+Software+Testing+Enthusiast;Mobile+Apps+with+Kotlin+%26+Flutter;Open+to+Internship+Opportunities)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,9 +24,11 @@
 
 ### 🚀 About Me
 
-I'm **Kavindu Marasinghe**, a 3rd-year **IT undergraduate at SLIIT** who builds full-stack web and Android apps — and cares about making sure they actually work.
+I'm **Kavindu Marasinghe**, a 3rd-year **IT undergraduate at SLIIT** who builds full-stack web and mobile apps — and cares about making sure they actually work.
 
-- 💻 **Building:** Full-stack apps with **MERN** and **Spring Boot + React**, plus **Kotlin** Android apps
+- 💻 **Web:** Full-stack apps with **MERN** and **Spring Boot + React**
+- 📱 **Mobile:** Native Android apps with **Kotlin** and cross-platform apps with **Flutter**
+- ⚡ **Backend:** **Supabase** (PostgreSQL, auth, storage), MongoDB and MySQL
 - 🧪 **Testing:** API testing with **Postman** and end-to-end testing with **Playwright**
 - 🔐 **Interests:** REST API design, authentication & RBAC, UI/UX, and AI/ML
 - 🎯 **Looking for:** QA / Software Testing and Full-Stack internship opportunities
@@ -39,7 +41,7 @@ I'm **Kavindu Marasinghe**, a 3rd-year **IT undergraduate at SLIIT** who builds 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,ts,js,python,react,nodejs,express,spring,mongodb,mysql,firebase,supabase,flutter,android,tailwind,html,css,git,github,linux,postman,figma,vscode,androidstudio&perline=5&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,ts,js,python,react,nodejs,express,spring,mongodb,mysql,firebase,supabase,flutter,tailwind,html,css,git,github,linux,postman,figma,vscode,androidstudio&perline=5&theme=dark)](https://skillicons.dev)
 
 <br/>
 
@@ -47,6 +49,8 @@ I'm **Kavindu Marasinghe**, a 3rd-year **IT undergraduate at SLIIT** who builds 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![MERN](https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </div>
 
@@ -118,7 +122,7 @@ I'm **Kavindu Marasinghe**, a 3rd-year **IT undergraduate at SLIIT** who builds 
 
 <!-- ===== FOOTER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer"/>
+  <img src="./assets/footer.svg" width="100%" alt="footer"/>
 </div>
 
 <div align="center">
