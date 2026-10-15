@@ -1,12 +1,12 @@
 <!-- ===== BANNER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Kavindu%20Marasinghe&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Passionate%20Software%20Developer%20from%20Sri%20Lanka&descSize=20&descAlignY=60&animation=fadeIn" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Kavindu%20Marasinghe&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=IT%20Undergraduate%20%40%20SLIIT%20%7C%20Full-Stack%20%26%20QA&descSize=20&descAlignY=60&animation=fadeIn" alt="banner"/>
 </div>
 
 <!-- ===== TYPING TAGLINE ===== -->
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Mobile+%26+Web+App+Developer;SLIIT+Undergraduate;Kotlin+%7C+TypeScript+%7C+JavaScript;Always+learning%2C+always+building.)](https://git.io/typing-svg)
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN+%26+Spring+Boot;QA+%26+Software+Testing+Enthusiast;Kotlin+Android+Developer;Open+to+Internship+Opportunities)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,13 +24,13 @@
 
 ### 🚀 About Me
 
-I am **Kavindu Marasinghe**, an undergraduate at **SLIIT** building the bridge between **mobile experiences** and **modern web applications**.
+I'm **Kavindu Marasinghe**, a 3rd-year **IT undergraduate at SLIIT** who builds full-stack web and Android apps — and cares about making sure they actually work.
 
-- 🌱 **Currently Focused:** Crafting **Android apps** with Kotlin and full-stack web projects with TypeScript & React.
-- 🤝 **Collaboration:** Actively seeking partnerships for **Open Source** initiatives and **high-impact projects**.
-- 🎨 **Creative Interests:** Deeply passionate about clean **UI/UX**, e-commerce platforms, and **mobile-first** experiences.
-- 📚 **Community:** Committed to mastering **cutting-edge technologies** and promoting **knowledge sharing** within the global developer community.
-- ⚡ **Connect:** Open for technical discussions or project inquiries — let's build something great together.
+- 💻 **Building:** Full-stack apps with **MERN** and **Spring Boot + React**, plus **Kotlin** Android apps
+- 🧪 **Testing:** API testing with **Postman** and end-to-end testing with **Playwright**
+- 🔐 **Interests:** REST API design, authentication & RBAC, UI/UX, and AI/ML
+- 🎯 **Looking for:** QA / Software Testing and Full-Stack internship opportunities
+- 🛰️ **Community:** Member of **SEDS SLIIT**
 
 </td>
 <td width="45%" valign="top">
@@ -39,7 +39,14 @@ I am **Kavindu Marasinghe**, an undergraduate at **SLIIT** building the bridge b
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,android,androidstudio,java,ts,js,python,html,css,tailwind,bootstrap,react,nextjs,nodejs,express,mongodb,mysql,firebase,git,github,vscode,figma,postman,npm&perline=5&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,ts,js,python,react,nodejs,express,spring,mongodb,mysql,firebase,supabase,flutter,android,tailwind,html,css,git,github,linux,postman,figma,vscode,androidstudio&perline=5&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MERN](https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 </div>
 
@@ -48,11 +55,11 @@ I am **Kavindu Marasinghe**, an undergraduate at **SLIIT** building the bridge b
 </table>
 
 <!-- ===== CONNECT BUTTONS ===== -->
-<div align="left">
+<div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavinduwethmin@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavindu-marasinghe-333baa376/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/kavinduMarasinghe)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kavinduMarasinghe?tab=repositories)
 
 </div>
 
@@ -63,20 +70,35 @@ I am **Kavindu Marasinghe**, an undergraduate at **SLIIT** building the bridge b
 
 <div align="center">
 
+<a href="https://github.com/Tharuka742/PAF_Project_SmartCampus">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Tharuka742&repo=PAF_Project_SmartCampus&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=2&cache_seconds=86400" alt="Smart Campus Operations Hub"/>
+</a>
+<a href="https://github.com/kavinduMarasinghe/Farm-Operations--and--Customer-Management-System">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kavinduMarasinghe&repo=Farm-Operations--and--Customer-Management-System&theme=tokyonight&hide_border=true&description_lines_count=2&cache_seconds=86400" alt="FarmerHub"/>
+</a>
+<a href="https://github.com/kavinduMarasinghe/ITPM-Project">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kavinduMarasinghe&repo=ITPM-Project&theme=tokyonight&hide_border=true&description_lines_count=2&cache_seconds=86400" alt="EventAura"/>
+</a>
+<a href="https://github.com/kavinduMarasinghe/IT2030-OOP--ASSIGMENT--Online-Vehicle-Service-Fuel-Station-Management-System">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kavinduMarasinghe&repo=IT2030-OOP--ASSIGMENT--Online-Vehicle-Service-Fuel-Station-Management-System&theme=tokyonight&hide_border=true&description_lines_count=2&cache_seconds=86400" alt="Vehicle Service & Fuel Station System"/>
+</a>
 <a href="https://github.com/kavinduMarasinghe/IT2010-MAD--ASSIGMENT02--Mobile-Application--Mocha-Hub-Online-Coffee-Shop-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavinduMarasinghe&repo=IT2010-MAD--ASSIGMENT02--Mobile-Application--Mocha-Hub-Online-Coffee-Shop-App&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kavinduMarasinghe&repo=IT2010-MAD--ASSIGMENT02--Mobile-Application--Mocha-Hub-Online-Coffee-Shop-App&theme=tokyonight&hide_border=true&description_lines_count=2&cache_seconds=86400" alt="Mocha Hub"/>
 </a>
-<a href="https://github.com/kavinduMarasinghe/brewease-my-coffee-hub-main">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavinduMarasinghe&repo=brewease-my-coffee-hub-main&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</a>
-<a href="https://github.com/kavinduMarasinghe/MADTutorial04">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavinduMarasinghe&repo=MADTutorial04&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</a>
-<a href="https://github.com/kavinduMarasinghe/IT3040-ITPM-Assigment-1--IT23606760">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavinduMarasinghe&repo=IT3040-ITPM-Assigment-1--IT23606760&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+<a href="https://github.com/kavinduMarasinghe/IT2010-MAD--ASSIGMENT03--Mobile-Application--Habit-Tracker-App">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kavinduMarasinghe&repo=IT2010-MAD--ASSIGMENT03--Mobile-Application--Habit-Tracker-App&theme=tokyonight&hide_border=true&description_lines_count=2&cache_seconds=86400" alt="Habit Tracker"/>
 </a>
 
 </div>
+
+| Project | Stack | What it does |
+|---|---|---|
+| **Smart Campus Operations Hub** | Spring Boot · React · MongoDB | Facility bookings, maintenance incidents, role-based access |
+| **FarmerHub** | MERN · TypeScript | Farm operations, customer marketplace, employee & training workflows |
+| **EventAura** | MERN | Event planning — tasks, scheduling, stalls, sponsorships |
+| **Vehicle Service & Fuel Station System** | Java · JSP/Servlets · MySQL | Bookings, mechanics, fuel management and orders (OOP) |
+| **Mocha Hub** | Kotlin · Android | Coffee ordering app with customization and loyalty rewards |
+| **Habit Tracker** | Kotlin · Android | Habit tracking, mood journal, hydration reminders, streaks |
 
 ---
 
@@ -84,16 +106,12 @@ I am **Kavindu Marasinghe**, an undergraduate at **SLIIT** building the bridge b
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kavinduMarasinghe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinduMarasinghe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kavinduMarasinghe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinduMarasinghe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kavinduMarasinghe&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kavinduMarasinghe&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&cache-seconds=86400" alt="trophies"/>
 </div>
 
 ---
