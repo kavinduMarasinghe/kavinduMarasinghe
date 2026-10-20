@@ -12,7 +12,7 @@
 
 <!-- ===== PROFILE VIEWS ===== -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kavinduMarasinghe&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="profile views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kavinduMarasinghe.kavinduMarasinghe&left_text=PROFILE%20VIEWS&left_color=%23555555&right_color=%238A2BE2" alt="profile views"/>
 </div>
 
 <br/>
